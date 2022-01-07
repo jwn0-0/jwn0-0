@@ -2,7 +2,7 @@
 
 -<a href="mailto:jungk0419@gmail.com" ><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wkddnjs9898@gmail.com"/></a>  wkddnjs9898@gmail.com
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jwn0-0)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwn0-0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jwn0-0/jwn0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

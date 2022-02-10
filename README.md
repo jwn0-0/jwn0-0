@@ -12,7 +12,7 @@
   
 <h3> 🏃🏻‍♀️🏃🏻‍♀️ My stats 🏃🏻‍♀️🏃🏻‍♀ </h3>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangWon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwn0-0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jwn0-0/jwn0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

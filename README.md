@@ -1,5 +1,5 @@
 <div align='center'>
-### Hi i am JangWon 👋
+👋 Hi i am JangWon 👋
 
 <h3> 🙌 Welcome 🙌 </h3>
 <p>I'm a software engineer who is in the 3th grade of university.<br/> Studying Android Nowadays✨</p>

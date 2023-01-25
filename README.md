@@ -2,7 +2,7 @@
 👋 Hi i am JangWon 👋
 
 <h3> 🙌 Welcome 🙌 </h3>
-<p>I'm a software engineer who is in the 3th grade of university.<br/> 🔭 I’m currently working on Android Nowadays✨</p>
+<p>I'm a software engineer who is in the 4th grade of university.<br/> 🔭 I’m currently working on SQL Nowadays✨</p>
 
 <h3>•••</h3>
 <p align='center'>
